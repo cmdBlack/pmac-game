@@ -1,0 +1,361 @@
+
+vv.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blueLeft
+  rotate: false
+  xy: 2, 466
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1
+bluediamond
+  rotate: false
+  xy: 2, 2
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+bluediamondbg
+  rotate: false
+  xy: 232, 468
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+bluehex
+  rotate: false
+  xy: 694, 237
+  size: 227, 229
+  orig: 227, 229
+  offset: 0, 0
+  index: -1
+bluehexbg
+  rotate: false
+  xy: 695, 6
+  size: 227, 229
+  orig: 227, 229
+  offset: 0, 0
+  index: -1
+bluet
+  rotate: false
+  xy: 984, 887
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+bluetbg
+  rotate: false
+  xy: 940, 928
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+greendiamond
+  rotate: false
+  xy: 232, 237
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+greendiamondbg
+  rotate: false
+  xy: 233, 6
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+greent
+  rotate: false
+  xy: 893, 870
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+greentbg
+  rotate: false
+  xy: 893, 893
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+pinkRight
+  rotate: false
+  xy: 2, 233
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1
+pinkdiamond
+  rotate: false
+  xy: 463, 468
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+pinkdiamondbg
+  rotate: false
+  xy: 463, 237
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+pinkt
+  rotate: false
+  xy: 923, 870
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+pinktbg
+  rotate: false
+  xy: 893, 928
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+reddiamond
+  rotate: false
+  xy: 464, 6
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+reddiamondbg
+  rotate: false
+  xy: 694, 468
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+redt
+  rotate: false
+  xy: 953, 870
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+redtbg
+  rotate: false
+  xy: 939, 893
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+shape6
+  rotate: false
+  xy: 983, 860
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+shapecircle
+  rotate: false
+  xy: 893, 845
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+shapediamond
+  rotate: false
+  xy: 986, 936
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+shapeheart
+  rotate: false
+  xy: 986, 910
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+tryAgain
+  rotate: false
+  xy: 2, 699
+  size: 889, 262
+  orig: 889, 262
+  offset: 0, 0
+  index: -1
+
+vv2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bluecircle
+  rotate: false
+  xy: 2, 2
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+bluecirclebg
+  rotate: false
+  xy: 231, 233
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+blueheart
+  rotate: false
+  xy: 689, 696
+  size: 229, 226
+  orig: 229, 226
+  offset: 0, 0
+  index: -1
+blueheartbg
+  rotate: false
+  xy: 689, 468
+  size: 229, 226
+  orig: 229, 226
+  offset: 0, 0
+  index: -1
+greencircle
+  rotate: false
+  xy: 460, 464
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+greencirclebg
+  rotate: false
+  xy: 231, 4
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+greenheart
+  rotate: false
+  xy: 689, 240
+  size: 229, 226
+  orig: 229, 226
+  offset: 0, 0
+  index: -1
+greenheartbg
+  rotate: false
+  xy: 689, 12
+  size: 229, 226
+  orig: 229, 226
+  offset: 0, 0
+  index: -1
+greenhex
+  rotate: false
+  xy: 2, 693
+  size: 227, 229
+  orig: 227, 229
+  offset: 0, 0
+  index: -1
+greenhexbg
+  rotate: false
+  xy: 2, 462
+  size: 227, 229
+  orig: 227, 229
+  offset: 0, 0
+  index: -1
+pinkcircle
+  rotate: false
+  xy: 460, 235
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+pinkcirclebg
+  rotate: false
+  xy: 460, 6
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+pinkhex
+  rotate: false
+  xy: 231, 693
+  size: 227, 229
+  orig: 227, 229
+  offset: 0, 0
+  index: -1
+pinkhexbg
+  rotate: false
+  xy: 2, 231
+  size: 227, 229
+  orig: 227, 229
+  offset: 0, 0
+  index: -1
+redhex
+  rotate: false
+  xy: 231, 462
+  size: 227, 229
+  orig: 227, 229
+  offset: 0, 0
+  index: -1
+redhexbg
+  rotate: false
+  xy: 460, 693
+  size: 227, 229
+  orig: 227, 229
+  offset: 0, 0
+  index: -1
+
+vv3.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pButton
+  rotate: false
+  xy: 666, 96
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+pinkheart
+  rotate: false
+  xy: 2, 254
+  size: 229, 226
+  orig: 229, 226
+  offset: 0, 0
+  index: -1
+pinkheartbg
+  rotate: false
+  xy: 2, 26
+  size: 229, 226
+  orig: 229, 226
+  offset: 0, 0
+  index: -1
+plogo
+  rotate: false
+  xy: 464, 2
+  size: 200, 249
+  orig: 200, 249
+  offset: 0, 0
+  index: -1
+redcircle
+  rotate: false
+  xy: 464, 253
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+redcirclebg
+  rotate: false
+  xy: 693, 253
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+redheart
+  rotate: false
+  xy: 233, 254
+  size: 229, 226
+  orig: 229, 226
+  offset: 0, 0
+  index: -1
+redheartbg
+  rotate: false
+  xy: 233, 26
+  size: 229, 226
+  orig: 229, 226
+  offset: 0, 0
+  index: -1

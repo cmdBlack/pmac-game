@@ -1,0 +1,76 @@
+{
+    com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+
+	    left: {
+		    up: blueLeft
+		    down: blueLeft
+	    }
+
+	    right: {
+	        up: pinkRight
+	        down: pinkRight
+	    }
+
+	    fire: {
+	        up: plogo
+	        down: plogo
+	    }
+
+	    red: {
+	        up: redt
+	        down: redt
+	        checked: redtbg
+	    }
+
+	    blue: {
+	        up: bluet
+	        down: bluet
+	        checked: bluetbg
+	    }
+
+	    green: {
+	        up: greent
+	        down: greentbg
+	        checked: greentbg
+	    }
+
+	    pink: {
+	        up: pinkt
+	        down: pinktbg
+	        checked: pinktbg
+	    }
+
+	    circle: {
+	        up: greencircle
+	        checked: greencirclebg
+	    }
+
+	    hex: {
+	        up: greenhex
+	        checked: greenhexbg
+	    }
+
+	    diamond: {
+	        up: greendiamond
+	        checked: greendiamondbg
+	    }
+
+	    heart: {
+	        up: greenheart
+	        checked: greenheartbg
+
+	    }
+
+	    tryAgain: {
+	        up: tryAgain
+	        checked: tryAgain
+
+	    }
+
+		ult: {
+			up: pButton
+			down: pButton
+		}
+	}
+
+}

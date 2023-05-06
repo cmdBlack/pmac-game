@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">pmacGame</string>
+    <string name="setting">SETTING</string>
+    <string name="exit">EXIT</string>
+    <string name="start">START</string>
+    <string name="user">user</string>
+    <string name="password">password</string>
+    <string name="pmac">pmac</string>
+    <string name="secret">secret</string>
+    <string name="vile">vile</string>
+
+    <string name="title_activity_video">activityVideo</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_vid">ActivityVid</string>
+    <string name="heart">heart</string>
+    <string name="left">left</string>
+    <string name="redt">redt</string>
+    <string name="right">right</string>
+    <string name="bluet">bluet</string>
+    <string name="player">player</string>
+    <string name="fire">fire</string>
+    <string name="greent">greent</string>
+    <string name="purplet">purplet</string>
+    <string name="hexa">hexa</string>
+    <string name="circle">circle</string>
+    <string name="diamond">diamond</string>
+    <string name="nez">nez</string>
+    <string name="bg">bg</string>
+    <string name="button">Button</string>
+</resources>
